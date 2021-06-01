@@ -1,0 +1,34 @@
+<Project name="Organizer" description="" newfilesearch="None" enableviewstate="True" version="1.1" projecttype="C#" xmlns:convtool="urn:convtool">
+  <Contents>
+    <File name=".\AboutForm.cs" buildaction="Compile" subtype="Code" />
+    <File name=".\AssemblyInfo.cs" buildaction="Compile" subtype="Code" />
+    <File name=".\MementoForm.cs" buildaction="Compile" subtype="Code" />
+    <File name=".\OptionsForm.cs" buildaction="Compile" subtype="Code" />
+    <File name=".\OrganizerForm.cs" buildaction="Compile" subtype="Code" />
+    <File name=".\Task.cs" buildaction="Compile" subtype="Code" />
+    <File name=".\TaskManager.cs" buildaction="Compile" subtype="Code" />
+    <File name=".\Termin.cs" buildaction="Compile" subtype="Code" />
+    <File name=".\TerminForm.cs" buildaction="Compile" subtype="Code" />
+    <File name=".\TerminManager.cs" buildaction="Compile" subtype="Code" />
+    <File name=".\AboutForm.resources" buildaction="EmbedAsResource" subtype="Code" />
+    <File name=".\MementoForm.resources" buildaction="EmbedAsResource" subtype="Code" />
+    <File name=".\OptionsForm.resources" buildaction="EmbedAsResource" subtype="Code" />
+    <File name=".\OrganizerForm.resources" buildaction="EmbedAsResource" subtype="Code" />
+    <File name=".\TerminForm.resources" buildaction="EmbedAsResource" subtype="Code" />
+  </Contents>
+  <DeploymentInformation target="" script="" strategy="File" />
+  <Configurations active="Debug">
+    <Configuration runwithwarnings="False" name="Debug">
+      <CodeGeneration runtime="MsNet" compiler="Csc" warninglevel="4" includedebuginformation="True" optimize="False" unsafecodeallowed="False" generateoverflowchecks="False" mainclass="" target="WinExe" definesymbols="DEBUG;TRACE" generatexmldocumentation="False" win32Icon=".\Application.ico" />
+      <Execution commandlineparameters="" consolepause="True" />
+      <Output directory=".\bin\Debug\" assembly="Organizer" />
+    </Configuration>
+    <Configuration runwithwarnings="False" name="Release">
+      <CodeGeneration runtime="MsNet" compiler="Csc" warninglevel="4" includedebuginformation="False" optimize="True" unsafecodeallowed="False" generateoverflowchecks="False" mainclass="" target="WinExe" definesymbols="TRACE" generatexmldocumentation="False" win32Icon=".\Application.ico" />
+      <Execution commandlineparameters="" consolepause="True" />
+      <Output directory=".\bin\Release\" assembly="Organizer" />
+    </Configuration>
+  </Configurations>
+  <References>
+  </References>
+</Project>

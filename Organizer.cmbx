@@ -1,0 +1,14 @@
+<Combine fileversion="1.0" name="Organizer" description="">
+<Entries>
+<Entry filename="D:\Eigene Dateien\Develop\VC#\Projects\Organizer\Organizer.prjx" />
+</Entries>
+<StartMode startupentry="Organizer" single="True"/>
+<Configurations active="Debug">
+<Configuration name="Debug">
+<Entry name="Organizer" configurationname="Debug" build="False" />
+</Configuration>
+<Configuration name="Release">
+<Entry name="Organizer" configurationname="Release" build="False" />
+</Configuration>
+</Configurations>
+</Combine>

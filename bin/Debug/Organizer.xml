@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<organizer>
+  <termin id="632000214507968750">
+    <datum>23.09.2003 12:00:48</datum>
+    <betreff>Telefon-Interview Accenture</betreff>
+  </termin>
+  <termin id="632000214716718750">
+    <datum>24.10.2003 19:00:28</datum>
+    <betreff>FH Diplomfeier in Raum G2</betreff>
+  </termin>
+  <termin id="632005313263906250">
+    <datum>01.10.2003 12:00:00</datum>
+    <betreff>Telefon-Interview Accenture</betreff>
+  </termin>
+  <termin id="632007010353750000">
+    <datum>08.10.2003 19:00:00</datum>
+    <betreff>Starlight Express</betreff>
+  </termin>
+  <termin id="632009684135468750">
+    <datum>06.10.2003 08:30:00</datum>
+    <betreff>PEBG - Modul I</betreff>
+  </termin>
+</organizer>
