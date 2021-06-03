@@ -1,2 +1,2 @@
 # Organizer
- Simple Organizer running as tray icon
+Organizer - Simpler Terminplaner
