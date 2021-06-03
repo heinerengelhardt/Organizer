@@ -1,2 +1,2 @@
 # Organizer
-Organizer - Simpler Terminplaner
+Simpler Terminplaner
