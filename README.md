@@ -1,6 +1,8 @@
 # Organizer
 Organizer ist ein simpler und übersichtlicher Terminplaner mit Erinnerungsfunktion. Bisher können Tag und Startzeit eines Termins aufgenommen werden.
-Ausserdem ist es möglich, Aufgaben in Form einer Todo Liste aufzunehmen. Organizer ist freie Software (freeware).
+Ausserdem ist es möglich, Aufgaben in Form einer Todo Liste aufzunehmen.
+
+Organizer ist freie Software (freeware).
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/45694082/120647677-283c6400-c47b-11eb-8e83-7625601bf944.png)
